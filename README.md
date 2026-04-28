@@ -13,6 +13,3 @@ I am a second-semester ICT diploma student passionate about bridging the gap bet
 * **Hardware:** Arduino Uno, ESP8266, Sensors & Motor Drivers
 * **Languages:** C, C++ , HTML , CSS , JAVA.
 * **Skills:** Circuit wiring, IoT logic, Technical documentation, Video scripting & editing
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
