@@ -11,5 +11,5 @@ I am a 3rd semester ICT diploma student passionate about bridging the gap betwee
 
 ## 💻 Tech Stack & Tools
 * **Hardware:** Arduino Uno, ESP8266, Sensors & Motor Drivers
-* **Languages:** C, C++ , HTML , CSS , JAVA.
+* **Languages:** C, C++ , HTML , CSS , JAVA, PYTHONE.
 * **Skills:** Circuit wiring, IoT logic, Technical documentation, Video scripting & editing
