@@ -1,4 +1,4 @@
-# Hi there, I'm RavenReap! 👋
+# Hi there, I'm Ratan Thakar! 👋
 
 ### 🚀 Information & Communication Technology (ICT) Student | Embedded Systems & Robotics Enthusiast
 
