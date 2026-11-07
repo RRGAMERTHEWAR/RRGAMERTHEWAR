@@ -1,6 +1,6 @@
 <div align="center">
 
-  # ⚡ Hi there, I'm Ratan Thakar 👋
+  # Hello there, I'm Ratan Thakar 👋
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vcenter=true&width=580&lines=ICT+Student+%7C+Embedded+Systems+%26+Robotics;Building+IoT+%26+Hardware-Software+Integrations;Python+%2B+C%2FC%2B%2B+%2B+CustomTkinter+Developer;Content+Creator+%26+Tech+Enthusiast)](https://git.io/typing-svg)
 
