@@ -68,13 +68,13 @@ I am an **Information & Communication Technology (ICT)** diploma student passion
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RRGAMERTHEWAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ratan's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=RRGAMERTHEWAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ratan's GitHub Stats" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRGAMERTHEWAR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=RRGAMERTHEWAR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RRGAMERTHEWAR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RRGAMERTHEWAR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
